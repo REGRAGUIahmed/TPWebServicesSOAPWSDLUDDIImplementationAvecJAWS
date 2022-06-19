@@ -19,7 +19,8 @@ Pour tester par exemeple la méthode "ConversionEuroToDH" on clique là-dessus d
 ![image](https://user-images.githubusercontent.com/102111459/174476139-b74a7797-0529-4175-8f65-06f591d2f2e4.png)  
 On tape le montant et on clique sur envoyer (fléche verte haut à gauche):  
 ![image](https://user-images.githubusercontent.com/102111459/174476223-b8ecbce1-635f-408d-9d69-2ab36b9b44d4.png)  
-L'étape suivante c'est crée un client java : "ClientWS" pour consommer notre web service 
+L'étape suivante c'est crée un client java : "ClientWS" pour consommer notre web service, de ce fait on va créer un autre projet Java ...  
+(Voir le repositorie ClientWS)
 
 
 
